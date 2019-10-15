@@ -6,6 +6,7 @@ first add
 second add
 Creating a new branch is quick and simple
 hhh
+add merge
 1111
 22222
 333333
