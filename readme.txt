@@ -4,7 +4,7 @@ Git has a mutable index called staged.
 Git tracks changes of files.
 first add
 second add
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
 hhh
 1111
 22222
