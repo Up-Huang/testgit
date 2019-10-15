@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is a free sortware.
+Git is a free sortware distributed under the GPI.
 1111
 22222
 333333
